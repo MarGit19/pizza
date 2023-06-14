@@ -6,7 +6,7 @@ This is a drill.
 
 * Student Engineer
 * Scrum Master
-* Professional
+* Project Manager
 
 ## Special thanks 
 Thanks to Thinkful
